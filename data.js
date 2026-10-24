@@ -15,13 +15,35 @@ const PORTFOLIO_DATA = {
     ]
   },
 
-  links: {
-    email: { href: "#placeholder-email", label: "your.email@example.com", placeholder: true },
-    linkedin: { href: "#placeholder-linkedin", label: "LinkedIn profile", placeholder: true },
-    github: { href: "#placeholder-github", label: "GitHub profile", placeholder: true },
-    calcDemo: { href: "#placeholder-live-demo", placeholder: true },
-    calcRepo: { href: "#placeholder-github-repo", placeholder: true }
+links: {
+  email: {
+    href: "mailto:YOUR_EMAIL_HERE",
+    label: "Email me",
+    placeholder: true
   },
+
+  linkedin: {
+    href: "YOUR_LINKEDIN_URL_HERE",
+    label: "LinkedIn",
+    placeholder: true
+  },
+
+  github: {
+    href: "YOUR_GITHUB_URL_HERE",
+    label: "GitHub",
+    placeholder: true
+  },
+
+  calcDemo: {
+    href: "https://labibbd2005-hue.github.io/eee-engineering-calculator/",
+    placeholder: false
+  },
+
+  calcRepo: {
+    href: "YOUR_CALCULATOR_GITHUB_REPOSITORY_URL_HERE",
+    placeholder: true
+  }
+},
 
   nav: ["Home", "About", "Skills", "Projects", "Journey", "Education", "Contact"],
 
