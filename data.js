@@ -46,7 +46,7 @@ const PORTFOLIO_DATA = {
       category: "Software & Web Development",
       description: "A responsive scientific calculator supporting arithmetic, trigonometric functions, exponents, and memory operations. Built to strengthen JavaScript logic, DOM manipulation, and responsive UI design.",
       tags: ["HTML", "CSS", "JavaScript"],
-      demoLink: "#placeholder-live-demo",
+      demoLink: "https://labibbd2005-hue.github.io/eee-engineering-calculator/",
       repoLink: "#placeholder-github-repo",
       isLive: true
     }
