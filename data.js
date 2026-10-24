@@ -29,7 +29,7 @@ links: {
   },
 
   github: {
-    href: "YOUR_GITHUB_URL_HERE",
+    href: "https://github.com/labibbd2005-hue",
     label: "GitHub",
     placeholder: true
   },
