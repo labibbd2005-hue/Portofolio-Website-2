@@ -23,9 +23,9 @@ links: {
   },
 
   linkedin: {
-    href: "https://www.linkedin.com/in/fokrul-alam-labib ",
+    href: "https://www.linkedin.com/in/fokrul-alam-labib",
     label: "LinkedIn",
-     CLICK : true
+     placeholder : true
   },
 
   github: {
