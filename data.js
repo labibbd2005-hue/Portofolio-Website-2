@@ -1,5 +1,3 @@
-// Portfolio Data Configuration for Md Fokrul Alam Labib
-// Update the URLs below when your live profiles and repositories are ready.
 
 const PORTFOLIO_DATA = {
   profile: {
